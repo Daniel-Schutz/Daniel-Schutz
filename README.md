@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de README que você pode usar no seu GitHub:
-
----
-
 # Olá, eu sou Daniel Schutz! 👋
 
 Sou estudante de **Engenharia de Software** na UFMS com uma paixão por criar soluções inovadoras e eficientes. Tenho experiência em diversas linguagens de programação.
