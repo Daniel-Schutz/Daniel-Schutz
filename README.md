@@ -23,6 +23,7 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 ![Anvil](https://img.shields.io/badge/Anvil-%232D2D2D.svg?&style=for-the-badge&logo=anvil&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-%23000000.svg?&style=for-the-badge&logo=solana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ## Sobre Mim
 
