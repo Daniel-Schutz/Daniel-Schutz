@@ -36,6 +36,6 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
 
 - 📧 [Email](mailto:daniel3322schutz@hotmail.com.com)
 - 🌐 [LinkedIn](linkedin.com/in/daniel-schutz-0ba659178)
-- 📸 [Instagram]([https://twitter.com/danielschutz](https://www.instagram.com/_danielschutz))
+- 📸 [Instagram](https://www.instagram.com/_danielschutz)
 
 ---
