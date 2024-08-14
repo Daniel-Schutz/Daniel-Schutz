@@ -4,9 +4,9 @@ Claro! Aqui está um exemplo de README que você pode usar no seu GitHub:
 
 # Olá, eu sou Daniel Schutz! 👋
 
-Sou **Engenheiro de Software** com uma paixão por criar soluções inovadoras e eficientes. Tenho experiência em diversas linguagens de programação e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
+Sou estudante de **Engenharia de Software** na UFMS com uma paixão por criar soluções inovadoras e eficientes. Tenho experiência em diversas linguagens de programação.
 
-## Tecnologias que eu conheço
+## Tecnologias que trabalho
 
 Aqui estão algumas das tecnologias com as quais tenho experiência:
 
@@ -17,7 +17,13 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
 ![Java](https://img.shields.io/badge/Java-%23E34A86.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
+![Anvil](https://img.shields.io/badge/Anvil-%232D2D2D.svg?&style=for-the-badge&logo=anvil&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ## Sobre Mim
 
 - 🧠 Apaixonado por tecnologia e inovação.
@@ -26,10 +32,8 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
 
 ## Entre em Contato
 
-- 📧 [Email](mailto:danielschutz@example.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/danielschutz)
-- 🐦 [Twitter](https://twitter.com/danielschutz)
+- 📧 [Email](mailto:daniel3322schutz@hotmail.com.com)
+- 🌐 [LinkedIn](linkedin.com/in/daniel-schutz-0ba659178)
+- 📸 [Instagram]([https://twitter.com/danielschutz](https://www.instagram.com/_danielschutz))
 
 ---
-
-Espero que goste! Se precisar de qualquer ajuste ou tiver mais informações para adicionar, é só avisar.
