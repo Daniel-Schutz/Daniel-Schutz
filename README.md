@@ -31,6 +31,6 @@ Here are some of the technologies I have experience with:
 
 ## Contact Me
 
-- 📧 [Email](mailto:daniel3322schutz@hotmail.com.com)
+- 📧 [Email](mailto:daniel3322schutz@hotmail.com)
 - 🌐 [LinkedIn](linkedin.com/in/daniel-schutz-0ba659178)
 - 📸 [Instagram](https://www.instagram.com/_danielschutz)
